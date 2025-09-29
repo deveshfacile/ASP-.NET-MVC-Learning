@@ -1,0 +1,26 @@
+User Request (URL in Browser)
+   │
+   ▼
+Routing Engine
+   └─> Matches URL → Controller + Action
+   │
+   ▼
+Controller
+   └─> Calls Action Method
+   └─> Talks to Model (business logic / data)
+   │
+   ▼
+Model
+   └─> Interacts with Database / Logic
+   └─> Returns data to Controller
+   │
+   ▼
+Controller
+   └─> Passes data (Model) to View
+   │
+   ▼
+View (Razor Template)
+   └─> Generates HTML
+   │
+   ▼
+Response Back to Browser (Rendered HTML)
