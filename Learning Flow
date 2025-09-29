@@ -1,0 +1,57 @@
+Start
+   │
+   ▼
+Basic Understanding
+   └─> What is MVC?
+   └─> Difference from WebForms
+   └─> MVC Project Structure
+   │
+   ▼
+Core Concepts
+   └─> Models
+   └─> Views (Razor, Layouts, Partials)
+   └─> Controllers
+   └─> Routing (Default & Attribute Routing)
+   │
+   ▼
+Data & Forms
+   └─> HTML Helpers
+   └─> Model Binding
+   └─> Validation (Data Annotations, Client-side)
+   └─> ViewBag / ViewData / TempData
+   │
+   ▼
+Advanced Concepts
+   └─> Filters (Action, Result, Exception)
+   └─> Areas
+   └─> Dependency Injection
+   │
+   ▼
+Database Integration
+   └─> Entity Framework
+   └─> LINQ
+   └─> Repository Pattern
+   │
+   ▼
+Security
+   └─> Authentication & Authorization
+   └─> AntiForgeryToken (CSRF Protection)
+   │
+   ▼
+Client-Side & AJAX
+   └─> jQuery / JavaScript
+   └─> AJAX calls
+   └─> JSON handling
+   │
+   ▼
+Performance
+   └─> Caching (OutputCache, DataCache)
+   └─> Bundling & Minification
+   │
+   ▼
+Testing & Deployment
+   └─> Unit Testing (Controllers, Routes)
+   └─> Deployment (IIS, Azure, etc.)
+   │
+   ▼
+End (Complete MVC Skillset)
