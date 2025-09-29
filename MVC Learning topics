@@ -1,0 +1,84 @@
+ 1. Basics
+
+* Introduction to MVC Architecture
+* Difference between ASP.NET MVC and ASP.NET WebForms
+* MVC Project structure (Folders: Models, Views, Controllers)
+* Understanding Request life cycle in MVC
+* First MVC Application (Hello World example)
+
+ 2. Core Concepts
+
+* Models, Views, Controllers in detail
+* Routing (Default routes, Attribute Routing, Custom routes)
+* Action Methods & Action Results (ViewResult, JsonResult, RedirectResult, etc.)
+* ViewBag, ViewData, TempData
+* Strongly Typed Views & Razor Syntax
+* Layouts, Partial Views, Sections
+
+ 3. Data Handling
+
+* Working with Forms (FormCollection, Strongly typed models, Model binding)
+* Validation (Data Annotations, Client-side validation, Remote validation)
+* HTML Helpers (Standard & Custom)
+* View Models & DTOs
+* ModelState
+
+ 4. Advanced Routing & Controllers
+
+* Attribute Routing
+* Areas in MVC
+* Filters (Action Filters, Result Filters, Exception Filters, Authorization Filters)
+* Custom Filters
+
+5. Working with Data
+
+* Entity Framework with MVC
+* LINQ in MVC Applications
+* Repository Pattern in MVC
+* Dependency Injection (DI)
+
+6. Security
+
+* Authentication (Forms Authentication, Identity)
+* Authorization (Role-based, Policy-based)
+* Preventing Cross-Site Request Forgery (CSRF) with AntiForgeryToken
+* Security Best Practices in MVC
+
+7. AJAX & Client-Side Integration
+
+* AJAX in MVC (Ajax.BeginForm, jQuery AJAX)
+* JSON Data handling
+* Using jQuery & JavaScript in MVC
+* Partial Views with AJAX
+
+8. State Management
+
+* Session State
+* Cookies
+* TempData vs ViewData vs ViewBag
+
+9. Error Handling & Logging
+
+* Handling Errors in MVC
+* Custom Error Pages
+* Logging (NLog, Serilog, ELMAH, etc.)
+
+10. Performance & Optimization
+
+* Bundling & Minification
+* Caching (OutputCache, Data Caching)
+* Asynchronous Controllers
+
+11. Unit Testing in MVC
+
+* Test Controllers
+* Mocking in MVC
+* Test Routes
+
+12. Deployment
+
+* Publishing MVC applications (IIS, Azure, etc.)
+* Web.config configurations
+
+
+
