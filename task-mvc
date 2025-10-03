@@ -1,0 +1,17 @@
+MVC Exercise :
+1. User Login/Register → Using ASP.NET Core Identity (or custom auth)
+2. Dashboard → Show combine data grid. 
+3. Error Page → Custom error messages
+4. Simple CRUD with Multiple Tables	→ At least have 1 independent tables
+5. Complex CRUD with Relationships → One-to-Many, Many-to-Many
+
+Must have :						
+1. Routing
+2. Advanced Model Binding
+3. Dependency Injection & Services
+4. Filters & Middleware
+5. Authentication & Authorization
+6. State Management
+7. Error Handling & Logging
+8. Security
+9. Performance & Optimization
